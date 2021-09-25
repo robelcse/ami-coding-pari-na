@@ -34,5 +34,18 @@ Example: #http://localhost/Ami_coding_pari_na/api/userInputs/1/2021-01-01/2021-0
 
 
 
-
+<h2>Signin Page</h2>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/robelcse/ami-coding-pari-na/blob/main/public/img/Screenshot_1.png" width="400"></a></p>
+
+
+<h2>Signup Page</h2>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/robelcse/ami-coding-pari-na/blob/main/public/img/Screenshot_2.png" width="400"></a></p>
+
+
+<h2>Khoj the search Page</h2>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/robelcse/ami-coding-pari-na/blob/main/public/img/Screenshot_3.png" width="400"></a></p>
+
+
+
+<h2>Output</h2>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/robelcse/ami-coding-pari-na/blob/main/public/img/Screenshot_4.png" width="400"></a></p>
