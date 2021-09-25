@@ -31,3 +31,8 @@ you can test all user input
 #http://localhost/Ami_coding_pari_na/api/userInputs/userId/start_datetime/end_datetime 
 
 Example: #http://localhost/Ami_coding_pari_na/api/userInputs/1/2021-01-01/2021-01-03
+
+
+
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
