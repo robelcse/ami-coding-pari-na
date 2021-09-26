@@ -9,6 +9,7 @@ Step-4: php artisan migrate (this command needs to be run to migrate the databas
 Step-5: php artisan db:seed (if you want to generate some dummy data you need to run this command)
 
 Step-6: php artisan passport:client --personal (to create A Personal Access Client)
+after run this command may be it will ask you to give a token name you can type your access token name as your wish(Ex: authToken)
 
 Step-7: now you can run this project file on your browser and see the output (Ex: localhost/Ami-codin-pari-na)
 

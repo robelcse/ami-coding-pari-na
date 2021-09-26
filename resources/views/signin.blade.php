@@ -46,6 +46,8 @@
         </form>
     </div>
 </div>
+
+<script src="{{ asset('public/js/signin.js') }}"></script>
 <script>
 
 
